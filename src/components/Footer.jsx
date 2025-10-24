@@ -11,8 +11,8 @@ const Footer = () => {
                 Leorex
             </h3>
             <p className='text-gray-400'>
-                Frontend-Web Developer based in Nigeria, specializing in 
-                web and software development
+                Frontend Web Developer based in Nigeria, specializing in building modern, responsive web 
+                and software solutions.
             </p>
             </div>
             <div className='flex-1 w-full'>
